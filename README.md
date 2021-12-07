@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm Sergey Sudakov (@SSudakov99)</h1>
+<h1 align="center">Hello, I'm Sergey Sudakov</h1>
 <h3 align="center">An aspiring Data Scientist with a background in Economics and Philosophy</h3>
 
-- 🔭 I’m currently working on [bitcoin sentiment analysis](https://github.com/toporas/btc_sent_fc/blob/master/README.md)
+- 🔭 I’m currently working on a [project](https://github.com/toporas/btc_sent_fc/blob/master/README.md) that predicts the volume of a cryptocurrency based on the public sentiment about it.
 
-- 🌱 I’m currently learning **web3?**
+- 🌱 I’m currently learning about **web3**, **DeFi**, and **machine learning** generally
 
-- 💬 Ask me about **Hegel and Marx**
+- 💬 Ask me about **Hegel** and **Marx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
