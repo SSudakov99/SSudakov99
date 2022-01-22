@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on a [project](https://github.com/toporas/btc_sent_fc/blob/master/README.md) that predicts the volume of trade between crapto and fiat based on the public sentiment about it.
 
-- 🌱 I’m currently learning about **web3**, **DeFi**, and **machine learning** generally
-
-- 💬 Ask me about **Hegel** and **Marx**
+- 🌱 I’m currently learning about **web3**, **DeFi**, and **machine learning** generally.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
